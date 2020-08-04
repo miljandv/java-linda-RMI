@@ -1,0 +1,5 @@
+FROM 1   init C:\Users\milja\OneDrive\Desktop\WORKSTATION_FILES\test[192.168.10.103-4003]0.jar 192.168.10.103 4002 0 rs.ac.bg.etf.kdp.Integral
+FROM 2   noninitreg C:\Users\milja\OneDrive\Desktop\WORKSTATION_FILES\test[192.168.10.103-4003]1.jar 192.168.10.103 4031 0 rs.ac.bg.etf.kdp.Bag [Ljava.lang.String;@3852db41 run [Ljava.lang.String;@3c6d5893 
+FROM 2   noninitreg C:\Users\milja\OneDrive\Desktop\WORKSTATION_FILES\test[192.168.10.103-4003]2.jar 192.168.10.103 4031 0 rs.ac.bg.etf.kdp.Collector [Ljava.lang.String;@2b92a4dc run [Ljava.lang.String;@2fad2576 
+FROM 2   noninitreg C:\Users\milja\OneDrive\Desktop\WORKSTATION_FILES\test[192.168.10.103-4003]3.jar 192.168.10.103 4031 0 rs.ac.bg.etf.kdp.Worker [Ljava.lang.String;@55ecd65 run [Ljava.lang.String;@1615916 
+FROM 2   noninitreg C:\Users\milja\OneDrive\Desktop\WORKSTATION_FILES\test[192.168.10.103-4003]4.jar 192.168.10.103 4031 0 rs.ac.bg.etf.kdp.Worker [Ljava.lang.String;@281ce151 run [Ljava.lang.String;@2c23608a 

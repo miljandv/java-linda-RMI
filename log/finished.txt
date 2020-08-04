@@ -1,0 +1,10 @@
+C:\Users\milja\OneDrive\Desktop\SERVER_FILES\test0.jar#127.0.0.1#rs.ac.bg.etf.kdp.Integral#4002#Feb 10,2020 22:16:57#0#init#
+C:\Users\milja\OneDrive\Desktop\SERVER_FILES\test1.jar#127.0.0.1#rs.ac.bg.etf.kdp.Integral#4002#Feb 10,2020 22:17:03#1#init#
+C:\Users\milja\OneDrive\Desktop\SERVER_FILES\test2.jar#127.0.0.1#rs.ac.bg.etf.kdp.Integral#4002#Feb 10,2020 22:17:08#2#init#
+C:\Users\milja\OneDrive\Desktop\SERVER_FILES\test3.jar#127.0.0.1#rs.ac.bg.etf.kdp.Integral#4002#Feb 10,2020 22:17:12#3#init#
+C:\Users\milja\OneDrive\Desktop\SERVER_FILES\test0.jar#127.0.0.1#rs.ac.bg.etf.kdp.Integral#4002#Feb 10,2020 22:30:04#0#init#
+C:\Users\milja\OneDrive\Desktop\SERVER_FILES\test1.jar#127.0.0.1#rs.ac.bg.etf.kdp.Integral#4002#Feb 10,2020 22:30:09#1#init#
+C:\Users\milja\OneDrive\Desktop\SERVER_FILES\test2.jar#127.0.0.1#rs.ac.bg.etf.kdp.Integral#4002#Feb 10,2020 22:30:14#2#init#
+C:\Users\milja\OneDrive\Desktop\SERVER_FILES\test3.jar#127.0.0.1#rs.ac.bg.etf.kdp.Integral#4002#Feb 10,2020 22:30:26#3#init#
+C:\Users\milja\OneDrive\Desktop\SERVER_FILES\test0.jar#127.0.0.1#rs.ac.bg.etf.kdp.Integral#4002#Feb 11,2020 00:24:09#0#init#
+C:\Users\milja\OneDrive\Desktop\SERVER_FILES\test1.jar#127.0.0.1#rs.ac.bg.etf.kdp.Integral#4002#Feb 11,2020 00:24:13#1#init#
